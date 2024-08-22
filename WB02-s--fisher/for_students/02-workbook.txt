@@ -1,0 +1,24 @@
+Wisc ID: 
+GitHub ID: 
+
+[X] correct WB2 Canvas Assignment submission [none]: 
+[ ] correct WB2G Canvas Assignment submission on time [none]: 
+[ ] 2 pts for each of 4 shapes [02-04-01]: 
+[ ] making a picture [02-04-02]: 
+[ ] shapes that aren't rectangles [02-04-02]: 
+[ ] transparency (must explain in 02-workbook.txt) [02-04-02]: 
+[ ] making circles appear when the mouse is clicked [02-07-01]: 
+[ ] having the circles change color when the mouse is over them [02-07-01]: 
+[ ] having the circles change their color back when the mouse leaves them [02-07-01]: 
+[ ] user clicks mouse, firework shoots from the bottom towards mouse [02-08-01]: 
+[ ] firework moves to mouse position over time [02-08-01]: 
+[ ] firework disappears (explodes) when it gets to position [02-08-01]: 
+[ ] small moving pieces appear where big one explodes [02-08-01]: 
+[ ] pieces move outward from explosion [02-08-01]: 
+[ ] multiple fireworks at once (if user clicks quickly) [02-08-01]: 
+[ ] fireworks are different colors [02-08-01]: 
+[ ] having the circle change color when clicked (advanced points), with the hover behavior still working [02-07-01]: 
+[ ] explosions fade out (or disappear) after a distance [02-08-01]: 
+[ ] fireworks start from random locations at bottom [02-08-01]: 
+[ ] random fireworks in addition to user clicks [02-08-01]: 
+[ ] projectile motion [02-08-01]: 
