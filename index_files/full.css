@@ -1,0 +1,373 @@
+/*All CSS by Aaron Brown*/
+/*September 19, 2006*/
+/*FUUL*/
+/*Website CSS Combinded for the sake of color change*/
+
+BODY
+{
+	margin: 0;
+	padding: 0;
+	background-color: #C1E0E5;
+	color: #000000;
+	font-family: verdana,tahoma,"Bitstream Vera Sans",arial,helvetica,sans-serif;
+}
+
+A, A:LINK, A:HOVER, A:VISITED
+{
+	color: #3B759B;
+	text-decoration:none;
+}
+
+A:HOVER
+{
+	text-decoration: underline overline;
+	color: #C1C68E;
+}
+
+/*BANNER*/
+.top
+{
+	width: 775px;
+	height: 149px;
+	text-align: center;
+	background-image: url('/web/20070330040014im_/http://www.alblil.com/properties/default/images/banner.jpg');
+}
+
+/*TOP IMAGES*/
+.tleft
+{
+	background-image: url('/web/20070330040014im_/http://www.alblil.com/properties/default/images/left.gif');
+	height: 51px
+}
+
+.tright
+{
+	background-image: url('/web/20070330040014im_/http://www.alblil.com/properties/default/images/right.gif');
+	height: 51px
+}
+
+.tsub
+{
+	background-image: url('/web/20070330040014im_/http://www.alblil.com/properties/default/images/sub.gif');
+	height: 51px
+}
+
+
+/*PAGE DIMENTIONS*/
+.side
+{
+	vertical-align: top;
+	padding: 0;
+	margin: 0;
+	width: 192px;
+	background-color: #F5EEDC;
+	color: #000000;
+}
+
+.middle
+{
+	width: 391px;
+	padding: 0;
+	margin: 0;
+	background-color: #F0E6CD;
+	vertical-align: top;
+	font-size: 100%;
+	color: #000000;
+}
+
+/*.middle p:first-letter
+{
+	font-weight: bold;
+	font-size: 120%;
+	color: #3B759B;
+	background-color: #F0E6CD;
+}*/
+
+.bottom
+{
+	background-color: #2A6D97;
+	font-size:70%;
+	color: #FFFFFF;
+}
+
+/*BOTTOM IMAGES*/
+.bleft
+{
+	background-image: url('/web/20070330040014im_/http://www.alblil.com/properties/default/images/left_b.gif');
+	height: 51px;
+}
+
+.bright
+{
+	background-image: url('/web/20070330040014im_/http://www.alblil.com/properties/default/images/right_b.gif');
+	height: 51px;
+}
+
+.bsub
+{
+	background-image: url('/web/20070330040014im_/http://www.alblil.com/properties/default/images/sub_b.gif');
+	height: 51px;
+}
+
+.cleft
+{
+	background-image: url('/web/20070330040014im_/http://www.alblil.com/properties/default/images/bl.gif');
+	background-repeat: no-repeat;
+	background-position:  left bottom;
+	height: 50px;
+	background-color: #2A6D97;
+	color: #000000;
+}
+
+.cright
+{
+	background-image: url('/web/20070330040014im_/http://www.alblil.com/properties/default/images/br.gif');
+	background-repeat: no-repeat;
+	background-position:  right bottom;
+	height: 50px;
+	background-color: #2A6D97;
+	color: #000000;
+}
+
+/*CERTIFICATES*/
+.cer
+{
+	text-align: center;
+}
+
+.cer A img
+{
+	vertical-align: top;
+}
+
+/* ALL IMAGES ARE AFFECTED BY THIS, IT LOOKS PRETTY*/
+A img, A:LINK img, A:HOVER img, A:VISITED img
+{
+border: 2px solid #2A6D97;
+}
+
+A:HOVER img
+{
+border: 2px solid #C1C68E;
+}
+
+/*-------------------------------------------------------------------------------*/
+/*All CSS by Aaron Brown*/
+/*September 04, 2006*/
+/*News*/
+/*The latest news section*/
+
+#div1,#div2,#div3,#div4,#div5,#div6,#div7
+{
+	display: none;
+}
+
+.news p
+{
+	cursor: pointer;
+	color: #FFFFFF;
+	background-color: #A3A3A3;
+	width: 1.5em;
+	text-align:center;
+	font-size: 120%;
+}
+
+.news em
+{
+	color: #3B759B; 
+	float: left; 
+	background-color: #FCFBF6;
+}
+
+.news
+{
+	border: 2px solid #DDD7C9;
+	background-color: #FCFBF6;
+	color: #000000;
+	padding: 2px
+}
+
+.news img
+{
+	margin-right: 1em;
+}
+
+.stamp
+{
+	text-align: center;
+	font-size: 70%;
+}
+
+.news b
+{
+	background: url('/web/20070330040014im_/http://www.alblil.com/properties/default/images/arrow.gif') no-repeat bottom left;
+	width: 15px;
+	height: 12px;
+	border: 0 none;
+	padding-left: 0; 
+	padding-right: 2em; 
+	padding-top: 12px; 
+	padding-bottom: 0;
+}
+
+.snip p
+{
+	cursor: pointer;
+	color: #FFFFFF;
+	background-color: #A3A3A3;
+	width: 1.5em;
+	text-align:center;
+	font-size: 120%;
+}
+
+.snip
+{
+	border: 2px solid #DDD7C9;
+	background-color: #FCFBF6;
+	color: #000000;
+	padding: 2px
+}
+
+/*-------------------------------------------------------------------------------*/
+/*All CSS by Aaron Brown*/
+/*September 04, 2006*/
+/*Navigation*/
+/*The navigation of the page top and bottom*/
+
+/*SIDE*/
+
+.box
+{
+	background-color: #FAF7EE;
+	border: 2px solid #D9D2BF;
+	width: 180px;
+	padding: 2px;
+	color: #FFFFFF
+}
+
+.nav
+{
+	padding: 1px;
+}
+
+/*note the section below is intentionally redundant*/
+.nav A, .nav A:hover, .nav A:link, .nav A:visited
+{
+	text-decoration: none;
+	display: block;
+	text-transform: uppercase;
+	font-weight: bold;
+	color: #276E98;
+	border: 2px solid #FAF7EE;
+	background-color: #FAF7EE;
+	text-align: left;
+	width: 176px;
+}
+
+.nav A:hover
+{
+	border: 2px solid #DDD7C9;
+	background-color: #FCFBF6;
+}
+
+/*BOTTOM*/
+.bottom A:before
+{
+	content: "|";
+}
+
+.bottom A:hover:before
+{
+	content: ">";
+}
+
+.bottom A:hover:after
+{
+	content: "<";
+}
+
+.bottom A:first-child:before
+{
+	content:  " ";
+}
+
+.bottom A:hover:first-child:before
+{
+	content:  ">";
+}
+
+.bottom A:link, .bottom A:hover,.bottom A:active, .bottom A:visited
+{
+	background-color: #2A6D97;
+	color: #FFFFFF;
+}
+
+.bottom A:hover
+{
+	color: #000000;
+	text-decoration: underline overline;
+}
+
+/*-------------------------------------------------------------------------------*/
+/*All CSS by Aaron Brown*/
+/*September 04, 2006*/
+/*Shapes*/
+/*The icons and page title*/
+
+#title img
+{
+	float: left;
+	padding-right: 1em;
+}
+
+#title
+{
+	font-size: 150%;
+	font-weight: 700;
+	color: #3B759B;
+	vertical-align: top;
+	margin: 5px;
+	background-color: #F0E6CD;
+}
+
+#s001, #s002, #s003, #s004, #s005
+{
+	width: 24px;
+	height: 25px;
+	padding: 0px 1em 0px 25px;
+}
+
+#s001
+{background: url('/web/20070330040014im_/http://www.alblil.com/properties/default/icons/shape001.gif') no-repeat top left; }
+
+#s002
+{background: url('/web/20070330040014im_/http://www.alblil.com/properties/default/icons/shape002.gif') no-repeat top left; }
+
+#s003
+{background: url('/web/20070330040014im_/http://www.alblil.com/properties/default/icons/shape003.gif') no-repeat top left; }
+
+#s004
+{background: url('/web/20070330040014im_/http://www.alblil.com/properties/default/icons/shape004.gif') no-repeat top left; }
+
+#s005
+{background: url('/web/20070330040014im_/http://www.alblil.com/properties/default/icons/shape005.gif') no-repeat top left; }
+/*
+     FILE ARCHIVED ON 04:00:14 Mar 30, 2007 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 22:58:43 Aug 22, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.704
+  exclusion.robots: 0.029
+  exclusion.robots.policy: 0.014
+  esindex: 0.016
+  cdx.remote: 17.063
+  LoadShardBlock: 1269.197 (3)
+  PetaboxLoader3.datanode: 1100.877 (4)
+  PetaboxLoader3.resolve: 448.185 (2)
+  load_resource: 465.736
+*/
