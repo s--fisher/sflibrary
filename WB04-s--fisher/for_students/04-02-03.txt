@@ -1,0 +1,4 @@
+Provide the matrix for scaling by a factor of 2 (doubling in size) followed by rotation by 90 degrees:
+
+     (2)*Math.cos(Math.PI*0.5)  (-2)*Math.sin(Math.PI*0.5)
+     (2)*Math.sin(Math.sin*0.5)  (2)*Math.cos(Math.PI*0.5)

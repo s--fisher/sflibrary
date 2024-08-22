@@ -1,0 +1,4 @@
+Provide the matrix for a rotation by 90 degrees:
+
+     Math.cos(Math.PI*0.5)  (-1)*Math.sin(Math.PI*0.5)
+     Math.sin(Math.sin*0.5)  Math.cos(Math.PI*0.5)
